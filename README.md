@@ -5,7 +5,7 @@ Cooking
 This module adds several raw food items and the ability to cook food for better restoration of hunger and thrist.
 
 Warning: You may want to bump up the max RAM usable by Terasology when enabling this module. Otherwise, your game might
-crash when openining the Cooking section of the help menu.
+crash when opening the Cooking section of the help menu.
 
 ## Contribution
 1. Fork and clone this repository locally.
